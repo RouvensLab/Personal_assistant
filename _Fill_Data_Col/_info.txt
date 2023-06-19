@@ -1,0 +1,1 @@
+In diesem Ordner werden alle Programme abgelegt,  die Infromationen sammeln und speichern können. Diese Informationen müssen aber Nützlich sein.
